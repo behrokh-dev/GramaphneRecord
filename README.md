@@ -25,9 +25,7 @@ You can see the live demo here:
 ## 📝 How It Works
 
 The page displays a simple landing layout like:
-![Image](https://behrokh-dev.github.io/GramaphneRecord/assets/screenshot1.png)
-![Image](https://behrokh-dev.github.io/GramaphneRecord/assets/screenshot2.png)
-![Image](https://behrokh-dev.github.io/GramaphneRecord/assets/screenshot3.png)
+![Image](https://github.com/user-attachments/assets/4dd4a94c-30f1-48ba-9626-ccdf8325e990)
 
 ---
 
