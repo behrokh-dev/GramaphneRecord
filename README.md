@@ -26,6 +26,7 @@ You can see the live demo here:
 
 The page displays a simple landing layout like:
 ![Image](https://github.com/user-attachments/assets/4dd4a94c-30f1-48ba-9626-ccdf8325e990)
+![Image](https://github.com/user-attachments/assets/7966b33c-71fc-480c-b5a3-a7c97b807d50)
 
 
 ---
