@@ -2,8 +2,6 @@
 
 A simple and elegant **digital portfolio landing page** made with basic HTML5/CSS3.
 
-This project displays a personal landing page with links to social profiles and other content — perfect for sharing via link as your online identity.
-
 ---
 
 ## 💌 Demo
