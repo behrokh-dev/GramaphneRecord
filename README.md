@@ -1,4 +1,4 @@
-# 🎨 GramaphneRecord
+# 🎼🎶 GramaphneRecord
 
 A simple and elegant **digital portfolio landing page** made with basic HTML5/CSS3.
 
