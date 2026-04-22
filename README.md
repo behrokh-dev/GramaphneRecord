@@ -9,6 +9,9 @@ A simple and elegant **digital portfolio landing page** made with basic HTML5/CS
 You can see the live demo here:  
 🔗 https://behrokh-dev.github.io/GramaphneRecord/
 
+![Image](https://github.com/user-attachments/assets/4dd4a94c-30f1-48ba-9626-ccdf8325e990)
+![Image](https://github.com/user-attachments/assets/7966b33c-71fc-480c-b5a3-a7c97b807d50)
+
 ---
 
 ## 🧾 Features
@@ -17,19 +20,6 @@ You can see the live demo here:
 - 📱 Responsive layout for all devices
 - 🖥 Works in all modern browsers
 - 📤 Easy to customize and share
-
----
-
-## 📝 How It Works
-
-The page displays a simple landing layout like:
-![Image](https://github.com/user-attachments/assets/4dd4a94c-30f1-48ba-9626-ccdf8325e990)
-![Image](https://github.com/user-attachments/assets/7966b33c-71fc-480c-b5a3-a7c97b807d50)
-
-
----
-
-and credits the designer at the bottom.
 
 ---
 
